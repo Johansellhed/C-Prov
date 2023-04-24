@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJF4BfxUylgu6/h4KbJi693h3UgKcLYSAXhTvC3rpDnsBv+nZsofeQOdMSuRgYbYrikGdkMPUwlWF2U5fk/Dig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johan.sellhed\\source\\repos\\CsharpProv\\CsharpProv\\CsharpProv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johan.sellhed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

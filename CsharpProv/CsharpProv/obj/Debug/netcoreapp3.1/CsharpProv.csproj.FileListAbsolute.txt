@@ -1,0 +1,13 @@
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.exe
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.deps.json
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.runtimeconfig.json
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.runtimeconfig.dev.json
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.dll
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\bin\Debug\netcoreapp3.1\CsharpProv.pdb
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.AssemblyInfoInputs.cache
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.AssemblyInfo.cs
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.csproj.CoreCompileInputs.cache
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.dll
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.pdb
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.genruntimeconfig.cache
+C:\Users\johan.sellhed\source\repos\CsharpProv\CsharpProv\obj\Debug\netcoreapp3.1\CsharpProv.csprojAssemblyReference.cache
